@@ -329,3 +329,6 @@ Here are some of the terms we've used in the tutorial. This isn't meant to be a 
   > Because of today's society's realization of systemic racism, there are movements to rename "master" to "main." I think this is an important and necessary shift in our verbiage as developers. GitHub will soon make it the default for all repositories. However, in the meantime, for those learning git, it is still helpful to learn "master" as the default branch. New developers will most certainly come across repos with a `Master` branch and need to be aware of what that means. For this reason, I'm going to continue to use `master/main` to refer to the default branch.
 
 **Did I miss a term? Go ahead and open a PR to add any you think should be added!**
+
+I just added stuff to the end!
+More stuff!
